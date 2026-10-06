@@ -1,4 +1,3 @@
-```markdown
 # Shopping Hub
 
 "A customer-centric e-commerce platform built to deliver a seamless and engaging online shopping experience. It allows users to browse products, add items to their cart, and securely complete purchases. The system includes order tracking, discount offers. Admins manage categories, pricing, stock levels, and customer feedback through an intuitive dashboard, ensuring smooth operation and real-time insights."
@@ -116,6 +115,3 @@ php artisan serve
 
 Access the application in your browser at: **`http://127.0.0.1:8000`**
 
-```
-
-```
