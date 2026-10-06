@@ -31,6 +31,7 @@ Follow these step-by-step instructions to set up and run the project in your loc
 
 ### 1. **Clone the Repository**
 Clone the project repository to your local machine and navigate into the project directory:
+
 ```bash
 git clone [https://github.com/Zunair-01/shopping-hub-ecommerce.git](https://github.com/Zunair-01/shopping-hub-ecommerce.git)
 cd shopping-hub-ecommerce
